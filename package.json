@@ -4,19 +4,12 @@
   "description": "hello, my name is ## H1 Theoneste",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/theoneste2060/hello-world.git"
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/theoneste2060/hello-world/issues"
-  },
-  "homepage": "https://github.com/theoneste2060/hello-world#index",
+  "homepage": "https://github.com/theoneste2060/hello-world",
   "dependencies": {
     "gh-pages": "^3.2.3"
   }
