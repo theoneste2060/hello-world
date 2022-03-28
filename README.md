@@ -1,2 +1,2 @@
 # hello-world
-hello-world is my first github exercise
+hello, my name is ## H1 Theoneste
